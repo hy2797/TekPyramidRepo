@@ -11,6 +11,7 @@ public class EvenNumber {
 		{
 			System.out.println("Not a Prime Number");
 		}
+		System.out.println("even numberrrrrr");
 	}
 
 }
